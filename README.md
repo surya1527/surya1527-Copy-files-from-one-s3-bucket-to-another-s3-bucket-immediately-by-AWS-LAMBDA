@@ -5,7 +5,7 @@ Aws Lambda: AWS Lambda is a serverless compute service that runs your code in re
 
 
 
-set S3 as the trigger in the trigger section.
+Set S3 as the trigger in the trigger section.
 
 
 
