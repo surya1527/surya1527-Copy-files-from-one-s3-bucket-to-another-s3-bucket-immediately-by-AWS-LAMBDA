@@ -14,4 +14,3 @@ Set S3 as the trigger in the trigger section.
 Then write your code in the aws lambda function.</br>
 Deploy and Test the code.
 
-
